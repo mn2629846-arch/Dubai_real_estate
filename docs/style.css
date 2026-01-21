@@ -643,7 +643,7 @@ body {
 
 .contact-section {
   padding: 120px 0;
-  background: url('https://images.unsplash.com/photo-1518592538340-f79ce5d7e6e8?auto=format&fit=crop&w=1200&q=80') center/cover no-repeat;
+  background: url('image/dubai-city-buildings-profile-at-sunset-in-the-united-arab-emirates-free-photo.jpg') center/cover no-repeat;
   color: var(--text-light);
   position: relative;
   text-align: center;
@@ -883,4 +883,5 @@ footer p {
     height: 25px;
     font-size: 16px;
   }
+
 }
